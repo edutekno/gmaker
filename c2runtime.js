@@ -22345,6 +22345,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetY,
 	cr.system_object.prototype.acts.Wait,
 	cr.plugins_.Sprite.prototype.cnds.OnCollision,
+	cr.plugins_.Sprite.prototype.acts.Spawn,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
 	cr.system_object.prototype.cnds.CompareVar,

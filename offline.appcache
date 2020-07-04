@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1593858514
+#1593861659
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -24,6 +24,8 @@ images/trash-sheet0.png
 images/refresh-sheet0.png
 images/gmaker-sheet0.png
 images/sprite2-sheet0.png
+images/border-sheet0.png
+images/player_hurt-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
